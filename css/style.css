@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.btn-primary{
+    
+}
+header {
+
+    color:aliceblue;
+    background-image: url("../images/donation8.jpg"), linear-gradient(#b3a9b0, #504b4a);
+    background-blend-mode: multiply;
+    text-align: center;
+    padding: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header h1{
+    
+
+    font-size: 72px;
+}
