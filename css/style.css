@@ -2,15 +2,23 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .btn-primary{
-    
+    color: #ffffff;
+    background-color: #ff5959;
+    padding: 15px 20px;
+    margin-top: 20px;
+    font-size:  20px;
+    font-weight: 800;
+    border: none;
+    border-radius: 5px;
 }
 header {
 
     color:aliceblue;
-    background-image: url("../images/donation8.jpg"), linear-gradient(#b3a9b0, #504b4a);
+    background-image: url("../images/donation11.jpg"), linear-gradient(#b3a9b0, #504b4a);
     background-blend-mode: multiply;
     text-align: center;
     padding: 200px;
@@ -19,6 +27,9 @@ header {
 }
 header h1{
     
-
+    font-weight: bold;
     font-size: 72px;
+}
+header h1 p{
+    font-size: 16px;
 }
